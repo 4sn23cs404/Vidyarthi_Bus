@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "821271283453",
+    "project_id": "vidyarthibus3-fb777",
+    "storage_bucket": "vidyarthibus3-fb777.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821271283453:android:e29183d3245afbfb1ce094",
+        "android_client_info": {
+          "package_name": "com.example.vidyarthibus3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtdBy8Hn8GkyDL0il_PBUa2fvnAsLhIl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
